@@ -1,4 +1,4 @@
-package java;
+package venu;
 
 public class HelloWorld {
 
